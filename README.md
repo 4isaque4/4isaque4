@@ -42,6 +42,14 @@ Monorepo Full Stack com React, Node.js, Express, PostgreSQL, Docker e workflows 
 
 Sistema web para visualização e gestão de processos BPMN, com frontend em Next.js e API em Fastify. Oferece diagramas interativos, documentação associada e organização de processos AS IS e TO BE.
 
+### [Letras](https://painel.letras.cloud)
+
+Plataforma educacional para apoiar a alfabetização de adultos, conectando um painel web para alfabetizadores a uma experiência mobile para alunos. Reúne gestão de jornadas, conteúdos personalizados, atividades multimídia e sincronização de progresso entre as plataformas.
+
+### Smart Factory
+
+Plataforma SaaS para monitoramento e análise de usinas fotovoltaicas, reunindo dashboards, séries temporais, indicadores de performance e dados operacionais. Desenvolvida com React, Fastify e TypeScript, com foco em confiabilidade, separação dos dados por usina e apoio à tomada de decisão.
+
 ### [Chatbot de conhecimento](https://github.com/4isaque4/Spindle-Front)
 
 Assistente técnico com interface em React e integração com Dify.ai, criado para consultar uma base de conhecimento e organizar diferentes sessões de conversa.
