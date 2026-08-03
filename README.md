@@ -46,7 +46,7 @@ Sistema web para visualização e gestão de processos BPMN, com frontend em Nex
 
 Plataforma educacional para apoiar a alfabetização de adultos, conectando um painel web para alfabetizadores a uma experiência mobile para alunos. Reúne gestão de jornadas, conteúdos personalizados, atividades multimídia e sincronização de progresso entre as plataformas.
 
-### Smart Factory
+### [Smart Factory](https://senai.digilink.com.br)
 
 Plataforma SaaS para monitoramento e análise de usinas fotovoltaicas, reunindo dashboards, séries temporais, indicadores de performance e dados operacionais. Desenvolvida com React, Fastify e TypeScript, com foco em confiabilidade, separação dos dados por usina e apoio à tomada de decisão.
 
