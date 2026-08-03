@@ -59,15 +59,6 @@ Assistente técnico com interface em React e integração com Dify.ai, criado pa
 
 </div>
 
-## GitHub em números
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=4isaque4&show_icons=true&theme=github_dark&hide_border=true&locale=pt-br" alt="Estatísticas do GitHub de Isaque" />
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=4isaque4&layout=compact&theme=github_dark&hide_border=true&locale=pt-br" alt="Linguagens mais utilizadas por Isaque" />
-
-</div>
-
 ---
 
 <div align="center">
