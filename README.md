@@ -65,6 +65,9 @@ Assistente técnico com interface em React e integração com Dify.ai, criado pa
 
 <div align="center">
 
+<a href="https://4isaque4.github.io">
+  <img src="https://img.shields.io/badge/Site-4isaque4.github.io-2F81F7?style=for-the-badge&logo=githubpages&logoColor=white" alt="Site de Isaque: 4isaque4.github.io" />
+</a>
 <a href="https://www.instagram.com/4isaque4/">
   <img src="https://img.shields.io/badge/Instagram-@4isaque4-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram @4isaque4" />
 </a>
