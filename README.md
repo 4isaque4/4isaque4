@@ -34,7 +34,9 @@ Transformo processos complexos em aplicações úteis, integrações confiáveis
 
 ## Projetos em destaque
 
-### [Spindle](https://github.com/4isaque4/spindle)
+<!-- Link removido em 2026-10-09: github.com/4isaque4/spindle e um repositorio privado,
+     entao o link retornava 404 para qualquer visitante. Restaurar se o repo virar publico. -->
+### Spindle
 
 Monorepo Full Stack com React, Node.js, Express, PostgreSQL, Docker e workflows no Windmill. Reúne interface web, APIs e automações voltadas a feedback, correções e conhecimento técnico.
 
@@ -46,11 +48,16 @@ Sistema web para visualização e gestão de processos BPMN, com frontend em Nex
 
 Plataforma educacional para apoiar a alfabetização de adultos, conectando um painel web para alfabetizadores a uma experiência mobile para alunos. Reúne gestão de jornadas, conteúdos personalizados, atividades multimídia e sincronização de progresso entre as plataformas.
 
-### [Smart Factory](https://senai.digilink.com.br)
+<!-- Link removido em 2026-10-09: https://senai.digilink.com.br retornava 525 (falha de SSL
+     entre o Cloudflare e o servidor de origem). O dominio raiz digilink.com.br responde
+     normalmente. Restaurar quando o subdominio voltar. -->
+### Smart Factory
 
 Plataforma SaaS para monitoramento e análise de usinas fotovoltaicas, reunindo dashboards, séries temporais, indicadores de performance e dados operacionais. Desenvolvida com React, Fastify e TypeScript, com foco em confiabilidade, separação dos dados por usina e apoio à tomada de decisão.
 
-### [Chatbot de conhecimento](https://github.com/4isaque4/Spindle-Front)
+<!-- Link removido em 2026-10-09: github.com/4isaque4/Spindle-Front e um repositorio privado,
+     entao o link retornava 404 para qualquer visitante. Restaurar se o repo virar publico. -->
+### Chatbot de conhecimento
 
 Assistente técnico com interface em React e integração com Dify.ai, criado para consultar uma base de conhecimento e organizar diferentes sessões de conversa.
 
